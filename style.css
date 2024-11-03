@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main {
+    background-image: url(img/h1_hero.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.btn-colour{
+    background-color: orangered;
+    color: white;
+}
+.start {
+    padding: 15rem 10rem;
+}
+.start > button {
+    border: none ;
+    background-color: rgb(253, 195, 204);
+}
+.bg-asa {
+    background-color: pink;
+}
+.min {
+    background-color: rgba(248, 206, 213, 0.56);
+}
+.boo {
+    background-image: url(img/about.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0rem;
+}
+.bee {
+    background-image: url(img/section_bg02.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bla {
+    background-color: rgb(2, 2, 69);
+    color: white;
+    text-align: center;
+    padding: 1rem 4rem;
+}
+.orng {
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    padding: 1rem 4rem;
+}
+.flow {
+    position: relative;
+    bottom: -12rem;
+    right: -15rem;
+}
+.ful {
+    background-image: url(img/section_bg03.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: 8rem 0rem;
+    text-align: center;
+}
+.last {
+    background-image: url(img/section_bg04.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 8rem 0rem;
+}
+.last > button {
+    color: orangered;
+    background-color: white;
+    font-weight: bolder;
+}
+.end {
+    padding: 5rem 0rem;
+}
+.bg-form {
+    background-image: url(img/contact_bg.png);
+}
